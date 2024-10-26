@@ -18,6 +18,21 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+#### Developed by:Ganesh Kumar T
+#### Regsiter No: 24900911
+surya=input() \
+vijay=input() \
+temp=vijay \
+vijay=surya \
+surya=temp \
+print(f"Swapped values are: {surya} {vijay}")
+
+
+
+
+# output:
+![!\[output\]](<Screenshot 2024-10-26 142422.png>)
+
 
 
 
